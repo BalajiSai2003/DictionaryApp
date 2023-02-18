@@ -1,0 +1,23 @@
+{
+  "name": "dictionaryapp",
+  "version": "1.0.0",
+  "description": "Dictionary App using HTML, TailwindCSS And Javascript",
+  "main": "script.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i input.css -o style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalajiSai2003/DictionaryApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BalajiSai2003/DictionaryApp/issues"
+  },
+  "homepage": "https://github.com/BalajiSai2003/DictionaryApp#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
