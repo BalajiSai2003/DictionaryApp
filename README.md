@@ -3,5 +3,5 @@ Create a dictionary app using HTML, TailwindCSS And Javascript where you can sea
 
 API Used:
 https://dictionaryapi.dev/
-
+visit: https://balajisai2003.github.io/DictionaryApp/
 ![](Screenshott.png)
